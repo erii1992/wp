@@ -1,12 +1,12 @@
 [
   {
     "id": "hero",
-    "enabled": false,
-    "order": 1
+    "enabled": true,
+    "order": 2
   },
   {
     "id": "rate",
     "enabled": true,
-    "order": 2
+    "order": 1
   }
 ]
